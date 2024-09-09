@@ -1,6 +1,6 @@
 import CustomButton from "./CustomButton.jsx";
 
-const AiPicker = ({ prompt, setPrompt, handleSubmit, generatingImg }) => {
+// const AiPicker = ({ prompt, setPrompt, handleSubmit, generatingImg }) => {
     // const handleButtonClick = (type) => {
     //     if (!prompt) {
     //         alert('Please enter a prompt');
@@ -48,6 +48,6 @@ const AiPicker = ({ prompt, setPrompt, handleSubmit, generatingImg }) => {
     //         </div>
     //     </div>
     // );
-};
+// };
 
-export default AiPicker
+// export default AiPicker

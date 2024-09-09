@@ -7,7 +7,7 @@ import { download } from '../assets'
 import { downloadCanvasToImage, reader} from "../config/helpers.js";
 import { EditorTabs, FilterTabs, DecalTypes } from "../config/constants.js";
 import { fadeAnimation, slideAnimation } from "../config/motion.js";
-import { AiPicker, ColorPicker, Tab, FilePicker, CustomButton } from "../components";
+import { ColorPicker, Tab, FilePicker, CustomButton } from "../components";
 import {useState} from "react";
 
 
